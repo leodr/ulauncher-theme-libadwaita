@@ -1,9 +1,9 @@
 <h1 align="center">
-  ulauncher-theme-libadwaita
+  <code>ulauncher-theme-libadwaita</code>
 </h1>
 
 <p align="center">
-    <strong>A ulauncher theme that looks native under <code>libadwaita</code>.</strong>
+    <strong>A Ulauncher theme that looks native under <code>libadwaita</code>.</strong>
 </p>
 
 <p align="center"> 
@@ -28,9 +28,9 @@
 ---
 
 A theme for [Ulauncher](https://ulauncher.io/) that's supposed to look native
-under libadwaita and GTK4.
+under `libadwaita` and GTK4.
 
-The colors and metrics where obtained by using the
+The colors and metrics were obtained by using the
 [GtkInspector](https://wiki.gnome.org/Projects/GTK/Inspector) tool on the GNOME
 Settings application on GNOME 43.
 
@@ -64,7 +64,7 @@ box-shadow: 0 2px 8px 2px rgba(0, 0, 0, 0.13), 0 3px 20px 10px rgba(0, 0, 0, 0.0
   0 6px 32px 16px rgba(0, 0, 0, 0.04), 0 0 0 1px rgba(0, 0, 0, 0.05);
 ```
 
-which is the box-shadow used by active GTK4 windows, however Ulauncher cuts off
+which is the box-shadow used by active GTK4 windows, however, Ulauncher cuts off
 shadows that go 20px beyond the window. So the current shadow is an alternative
 look that does not get cut off.
 
