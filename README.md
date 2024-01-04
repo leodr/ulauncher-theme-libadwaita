@@ -34,6 +34,8 @@ The colors and metrics were obtained by using the
 [GtkInspector](https://wiki.gnome.org/Projects/GTK/Inspector) tool on the GNOME
 Settings application on GNOME 43.
 
+You can find a dark mode variant of this theme [here](https://github.com/kareemkasem/ulauncher-theme-libadwaita-dark).
+
 <br>
 
 ## ❯ Screenshots
